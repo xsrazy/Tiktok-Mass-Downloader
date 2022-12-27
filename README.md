@@ -6,6 +6,7 @@ That script only does one thing if you want many downloads options consider look
 - adding number after url argument mass downloads number of tiktok videos of a single user and the descriptions.
 
 Note: Videos are stored in @username folder whereas the description is stored in names.txt
+
 Warning: Since the script mass downloads, it can be alot of data depending on the number you enter or the number of videos a user has. 
 
 # requirements:
