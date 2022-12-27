@@ -1,0 +1,17 @@
+{
+  "name": "TMD",
+  "version": "2.1.0",
+  "description": "",
+  "main": "TMD.js",
+  "scripts": {
+    "test": "node TMD.js proflie url"
+  },
+  "keywords": [],
+  "author": "Rahmatul Usra (Xsrazy)",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "puppeteer": "^19.0.0",
+    "puppeteer-extra": "^3.3.4"
+  }
+}
