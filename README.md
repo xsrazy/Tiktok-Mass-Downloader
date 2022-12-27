@@ -1,5 +1,5 @@
 # Tiktok Mass Downloader
-Simple script to mass download tiktok clips without watermark, used node js+ puppeteer
+Simple script to mass download tiktok clips without watermark, used node js + puppeteer
 
 That script only does one thing if you want many downloads options consider looking at [Xsrazy](https://xsrazy.github.io/)
 - TMD script mass downloads all tiktok videos of a single user profileand the descriptions.
