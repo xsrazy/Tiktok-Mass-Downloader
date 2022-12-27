@@ -3,7 +3,7 @@ Simple script to mass download tiktok video without watermark, used node js + pu
 
 That script only does one thing if you want many downloads options consider looking at [Xsrazy](https://xsrazy.github.io/)
 - TMD script mass downloads all tiktok videos of a single user profileand the descriptions.
-- adding number after url argument mass downloads number of tiktok videos of a single user and the descriptions.
+- Adding number after url argument mass downloads number of tiktok videos of a single user and the descriptions.
 
 Note: Videos are stored in @username folder whereas the description is stored in names.txt
 
