@@ -21,15 +21,17 @@ After installing Node Js
 
 navigate to the project directory and use this command:
 
-+ node TMD https://www.tiktok.com/@xsrazy
++ npm i
+
++ node TMD https://www.tiktok.com/@username (Replace with your username)
 
 
 # How to use:
 
-Manual Way:
+Manual Step:
 edit the user profile url in TMD script or edit the user profile url & the N Videos parameter in N videosuser script.
 
-Terminal Way:
+Auto Step:
 In the terminal or command prompt use:
 
 + node TMD https://www.tiktok.com/@xsrazy
@@ -46,7 +48,7 @@ to download all videos of single user.
 
 Results will be saved in names.txt and videos in username folder location.
 
-All videos will be saved without watermark unless the user reuploaded his clips with logo.
+All videos will be saved without watermark unless the user reuploaded his videos with logo.
 
 Thank you,
 
