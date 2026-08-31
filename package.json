@@ -13,5 +13,8 @@
     "node-fetch": "^2.6.7",
     "puppeteer": "^19.0.0",
     "puppeteer-extra": "^3.3.4"
+  },
+  "overrides": {
+    "brace-expansion": "5.0.9"
   }
 }
